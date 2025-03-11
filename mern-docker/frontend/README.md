@@ -1,1 +1,0 @@
-# Dockerizing MERN Application
